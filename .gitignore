@@ -1,1 +1,12 @@
 build
+dummy_inputs
+microsoft
+ProgramData_models
+roberta-base
+__pycache__
+*.log
+SOS_attack.py
+rap_defense.py
+__MAXCOSX__
+data_folder
+SOS_poison_data.py
